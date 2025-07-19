@@ -1,0 +1,2 @@
+# komstat
+untuk tugas
